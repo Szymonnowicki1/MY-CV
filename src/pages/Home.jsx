@@ -1,6 +1,6 @@
 import ThemeToggle from "../components/ThemeToggle";
 import Stars from "../components/Stars";
-import Navbar from "../components/NavBar";
+import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Skills from "../components/Skills";
