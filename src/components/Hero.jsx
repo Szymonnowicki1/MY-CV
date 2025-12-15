@@ -18,7 +18,7 @@ const Hero = () => {
                         Choć najbardziej interesuje mnie frontend i chciałbym zdobywać doświadczenie właśnie w tej specjalizacji, jestem również chętny na inne propozycje z branży IT, które pozwolą mi poszerzać wiedzę i praktyczne umiejętności.
                     </p>
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
-                        <a href="#projects" className="button">
+                        <a href="#about" className="button">
                             Więcej o mnie
                         </a>
                     </div>

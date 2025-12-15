@@ -14,7 +14,7 @@ const About = () => {
                         <p>W wolnym czasie śledzę nowinki technologiczne, rozwijam własne projekty oraz poszerzam wiedzę poprzez kursy online i praktyczne eksperymenty z nowymi frameworkami. Lubię również sport i gry zespołowe, które uczą współpracy i szybkiego reagowania – umiejętności, które z powodzeniem przenoszę do pracy w IT.</p>
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a href="#contact" className="button">Skontaktuj się ze mną</a>
-                            <a href="" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">Pobierz CV</a>
+                            <a href="../../public/CV.pdf" download="CV_SZYMON_NOWICKI.pdf" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">Pobierz CV</a>
                         </div>
                     </div>
                    
